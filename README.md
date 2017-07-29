@@ -5,7 +5,7 @@
 
 # What is this?
 
-Very cool React Native app that helps you remember folks when you can't even.
+A very cool React Native app that helps you remember folks when you can't even.
 
 # How do I use it?
 
@@ -44,6 +44,7 @@ react-native run-android
 
 
 # Technologies used
+
 - React Native
 - Jest & Chai for unit tests
 - Cavy for integration tests
@@ -62,6 +63,7 @@ react-native run-android
 - Jenny Wem  [@wemmm](http://github.com/wemmm)
 
 # How team RememberAll does things
+
 #### CHARTER:
 ```
 We have stand-ups at 9:42 every day.
@@ -139,6 +141,9 @@ I would like to see a narrative of things I know about them on their profile.
 ```
 
 # Miscellany
+
+#### Click the still below to see a live action advert featuring the incredible acting skills of [Lubos](https://github.com/lubosmichalic) and [Simon](http://github.com/siashbery)!
+[![rememberallad](https://img.youtube.com/vi/9dVepUFJpgI/0.jpg)](https://www.youtube.com/watch?v=9dVepUFJpgI&feature=youtu.be)
 
 #### A beautiful action shot of us mob programming:
 ![Mob programming](https://user-images.githubusercontent.com/25978953/28679049-e8c75d70-72e9-11e7-86f9-e1664420003b.jpg)
