@@ -101,6 +101,10 @@ To help us visualise a product, we worked on some initial sketches of what our '
 
 ![MVP](https://user-images.githubusercontent.com/25978953/28679045-e6cc4a9e-72e9-11e7-8b0d-deae2125280d.png)
 
+#### ...And the styled, feature-having version:
+
+![nottheMVP](https://github.com/wemmm/RememberAll/blob/master/mvp3.png)
+
 # User Stories
 ```
 As a user,
