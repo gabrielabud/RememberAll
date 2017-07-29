@@ -1,25 +1,31 @@
-# Remember All
+# RememberAll
 
 [About](#About) | [Instructions](#Instructions) | [Technologies used](#Technologies-used) | [Approach](#Approach) | [Contributors](#Contributors) |
 
 
-# About
+# What is this?
 
-Very cool app that lets you remember folks when you can't even.
+Very cool React Native app that helps you remember folks when you can't even.
 
-# Instructions
+# How do I use it?
 
+Clone this repository to your machine:
 ```
-# Clone the repo
 $ git clone git@github.com:jjadeseravla/RememberAll.git
+```
 
-# Go into the repo
+Naviagte to the repo:
+```
 $ cd RememberAll
+```
 
-# Install all the packages
+Install all the packages:
+```
 $ npm install
+```
 
-# Run the unit tests
+Run the unit tests:
+```
 $ npm test
 ```
 
@@ -71,18 +77,27 @@ Well-being of team members comes first.
 ```
 # Approach
 
-- How to solve the problem
-- Ethics: 'If you have to "get weird" to get some information from someone... it's probably not ok'
-- wrote user Stories
-- Defined MVP as a form with a single text field that saves something to the database
+#### Initial Mockups:
+
+To help us visualise a product, we worked on some initial sketches of what our 'dream app' might look like. Although our layout was ultimately a little different, you can see the colour choices and narrative elements persisted into the final app.
+
 ![Mock up of MVP](https://user-images.githubusercontent.com/25978953/28679041-e4dfb0e0-72e9-11e7-9e00-01a53b29992a.jpg)
-- Learnt how to use React Native
-- Learnt how to use Realm in conjunction with React Native
-- Learnt how to test React Native (<-- we found this challenging!)
-- Mob programmed our way to MVP (Hallelujah!!)
-![Mob programming](https://user-images.githubusercontent.com/25978953/28679049-e8c75d70-72e9-11e7-86f9-e1664420003b.jpg)
+![Mock up of profile page](https://user-images.githubusercontent.com/25978953/28679035-e2232030-72e9-11e7-8b37-ea9fdefea47a.jpg)
+
+#### Approaching the problem:
+
+- We had to consider an ethical angle, as one of our intial ideas was scraping info from social networks. Our conclusion? If you have to "get weird" to get some information about someone... it's probably not okay.
+- Due to ethical concerns we chose to move away from info scraping and towards a 'friendly' contacts app that allowed users to store any info they found relevent about a contact, search by any tag or field, and see a sort, readable narrative interpolated from that info. So we proceeded to write user stories for this set of features.
+- We defined our MVP as a form with a single text field that persists a name to a database.
+- To achieve this, we had to learn how to use React Native and Realm.
+- But even more challenging than learning this new tech- testing new tech!
+- So we learned how to unit test with Jest, and how to do integration tests with Cavy.
+- We mob programmed our way to MVP- hallelujah!!
+- Then we iterated on our MVP by adding one feature at a time- additional fields, a tagging system, search functionality, narrative generation, profile editing and a bit of styling.
+
+#### Our Minimum Viable Product:
+
 ![MVP](https://user-images.githubusercontent.com/25978953/28679045-e6cc4a9e-72e9-11e7-8b0d-deae2125280d.png)
-- Iterated on MVP by adding one feature at a time
 
 # User Stories
 ```
@@ -122,4 +137,8 @@ As a user,
 So I can better remember things about a person,
 I would like to see a narrative of things I know about them on their profile.
 ```
-![Mock up of profile page](https://user-images.githubusercontent.com/25978953/28679035-e2232030-72e9-11e7-8b37-ea9fdefea47a.jpg)
+
+# Miscellany
+
+#### A beautiful action shot of us mob programming:
+![Mob programming](https://user-images.githubusercontent.com/25978953/28679049-e8c75d70-72e9-11e7-86f9-e1664420003b.jpg)
