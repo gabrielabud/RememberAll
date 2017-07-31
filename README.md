@@ -1,9 +1,20 @@
-# RememberAll
+```
+ 888888ba                                          dP                          .d888888  dP dP 
+ 88    `8b                                         88                         d8'    88  88 88 
+a88aaaa8P' .d8888b. 88d8b.d8b. .d8888b. 88d8b.d8b. 88d888b. .d8888b. 88d888b. 88aaaaa88a 88 88 
+ 88   `8b. 88ooood8 88'`88'`88 88ooood8 88'`88'`88 88'  `88 88ooood8 88'  `88 88     88  88 88 
+ 88     88 88.  ... 88  88  88 88.  ... 88  88  88 88.  .88 88.  ... 88       88     88  88 88 
+ dP     dP `88888P' dP  dP  dP `88888P' dP  dP  dP 88Y8888' `88888P' dP       88     88  dP dP 
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                          an app to help you remember people you meet
+```
 
-[About](#About) | [Instructions](#Instructions) | [Technologies used](#Technologies-used) | [Approach](#Approach) | [Contributors](#Contributors) |
+[About](#What-is-this?) | [Instructions](#How-do-I-use-it?) | [Technologies used](#Technologies-used) | [Approach](#Approach) | [Contributors](#Contributors) |
 
 
 # What is this?
+
+![icon](https://github.com/wemmm/RememberAll/blob/master/rememberall.png)
 
 A very cool React Native app that helps you remember folks when you can't even.
 
